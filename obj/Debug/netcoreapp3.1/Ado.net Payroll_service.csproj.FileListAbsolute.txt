@@ -1,0 +1,5 @@
+E:\bridgelab\Ado.net Payroll_service\obj\Debug\netcoreapp3.1\Ado.net Payroll_service.csproj.AssemblyReference.cache
+E:\bridgelab\Ado.net Payroll_service\obj\Debug\netcoreapp3.1\Ado.net Payroll_service.GeneratedMSBuildEditorConfig.editorconfig
+E:\bridgelab\Ado.net Payroll_service\obj\Debug\netcoreapp3.1\Ado.net Payroll_service.AssemblyInfoInputs.cache
+E:\bridgelab\Ado.net Payroll_service\obj\Debug\netcoreapp3.1\Ado.net Payroll_service.AssemblyInfo.cs
+E:\bridgelab\Ado.net Payroll_service\obj\Debug\netcoreapp3.1\Ado.net Payroll_service.csproj.CoreCompileInputs.cache

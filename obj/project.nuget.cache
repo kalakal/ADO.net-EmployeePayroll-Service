@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8rcrS3jnVtfsbw3ENK6P2HlbL42xqV88ZNR90I+eZFN3nREXvH5IIxbrCQvJE58ouLj55MGAnbPFYlplNTOfUw==",
+  "success": true,
+  "projectFilePath": "E:\\bridgelab\\Ado.net Payroll_service\\Ado.net Payroll_service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Syed Faizan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}
